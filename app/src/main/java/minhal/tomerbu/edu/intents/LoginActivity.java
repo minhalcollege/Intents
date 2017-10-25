@@ -9,6 +9,8 @@ import android.widget.EditText;
 
 import java.util.concurrent.Executors;
 
+
+//TODO: https://developer.android.com/training/basics/intents/sending.html
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
